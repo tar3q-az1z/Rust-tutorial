@@ -11,6 +11,7 @@ fn main(){
     print!("x + 1 = {}", x + 1);
     
     // printing multiple variables
+    
     let y = 2;
     print!("\n");
     println!("x = {}, y = {}", x, y);
